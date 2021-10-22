@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // untuk mengatur margin secara horizontal dengan ukuran 16dp
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    // untuk mengatur margin secara vertical dengan ukuran 16dp
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
